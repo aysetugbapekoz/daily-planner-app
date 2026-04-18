@@ -1,21 +1,24 @@
 # Daily Planner App
 
-This project is a simple daily task planner built with React.
+A simple and interactive daily task planner built with React.
 
-## Features
+## 🚀 Features
 - Add task
 - List tasks
 - Update task
 - Delete task
 - Show time of creation
 
-## Technologies
+## 🛠️ Technologies
 - ReactJS
 - Vite
 - JavaScript
 
-## Live Demo
-(https://glistening-rabanadas-4fec1f.netlify.app)
+## 🌐 Live Demo
+🔗 https://glistening-rabanadas-4fec1f.netlify.app
 
-## GitHub
+## 📂 GitHub
 https://github.com/aysetugbapekoz/daily-planner-app
+
+## 👩‍💻 Author
+Ayşe Tuğba Peköz
