@@ -20,5 +20,15 @@ A simple and interactive daily task planner built with React.
 ## 📂 GitHub
 https://github.com/aysetugbapekoz/daily-planner-app
 
+<<<<<<< HEAD
 ## 👩‍💻 Author
 Ayşe Tuğba Peköz
+=======
+
+## 📸 Screenshot
+![Daily Planner App](./screenshot.png)
+
+
+## 👩‍💻 Author
+Ayşe Tuğba Peköz
+>>>>>>> 031d81c (add screenshot)
