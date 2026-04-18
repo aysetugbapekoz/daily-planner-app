@@ -15,7 +15,7 @@ This project is a simple daily task planner built with React.
 - JavaScript
 
 ## Live Demo
-(Netlify link buraya)
+(https://glistening-rabanadas-4fec1f.netlify.app)
 
 ## GitHub
 https://github.com/aysetugbapekoz/daily-planner-app
