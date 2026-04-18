@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.petal {
+  position: fixed;
+  top: -60px;
+  font-size: 28px;
+  pointer-events: none;
+  animation: fall linear infinite;
+  z-index: 5;
+  opacity: 0.9;
+}
+
+@keyframes fall {
+  0% {
+    transform: translateY(0) translateX(0) rotate(0deg);
+    opacity: 0.9;
+  }
+  25% {
+    transform: translateY(25vh) translateX(15px) rotate(90deg);
+  }
+  50% {
+    transform: translateY(50vh) translateX(-15px) rotate(180deg);
+    opacity: 1;
+  }
+  75% {
+    transform: translateY(75vh) translateX(15px) rotate(270deg);
+  }
+  100% {
+    transform: translateY(110vh) translateX(-15px) rotate(360deg);
+    opacity: 0.8;
+  }
+}/* Gradient arka plan */
+.gradient-bg {
+  background: linear-gradient(
+    135deg,
+    #ff4d6d,
+    #ff758f,
+    #ffb3c1,
+    #ffc2d1
+  );
+}
